@@ -1,4 +1,4 @@
-package com.vladyslavavalko.portfolio.readability;
+package com.portfolio.readability;
 
 import java.util.*;
 import java.util.regex.Matcher;
